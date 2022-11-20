@@ -8,19 +8,19 @@
 
 #### My past projects include:
 
-### Yellow Umbrella Makers
+##### Yellow Umbrella Makers
 This uses Gatsby, which is a JAM website maker. By the powers combined of Gatsby and Netlify I had a blog launched in no time. Well, a very small amount of time.
 
-### Patricia.portfolio
+##### Patricia.portfolio
 This is a site that lives at https://hellonurse.io. It's made with Vanilla JavaScript, HTML, and CSS. I launched the site with Netlify. 
 
-### The Happy Cloud
+##### The Happy Cloud
 This is a site that lives at https://the-happy-cloud.netlify.app/. This project demonstrates how Green Sock the JS library and React can work together.
 
-### Adventure Dog
+#### Adventure Dog
 This is a blog about dog care and training. It lives on Netlify as well. It's at https://adventure-dog.netlify.app/. It's made using React, Gatsby, and CSS modules.
 
-### Robot Dreams
+##### Robot Dreams
 This site fetches data (poems) from a free API and displays one poem at a time. It lives at https://haddeeann.github.io/robot-dreams/.
 
 It's made with HTML, JavaScript, CSS. And it is hosted on GitHub Pages. If you go to the site you can search for your favorite poet and it will return the first poem it find by that author.
