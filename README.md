@@ -1,4 +1,4 @@
-# Haddee Ann is a Wizard ✨
+# Haddee Ann: Python and JavaScript developer ✨
 
 ## My Repos
 
@@ -8,18 +8,10 @@
 - 👯 My past repos include:
 
 ### Yellow Umbrella Makers
-I usually put up code when I want to do something specifically public with it. This repo is me making the intial site at https://yummyapps.io. 
-
-It uses Gatsby, which is a JAM website maker. I thought that was a super interesting choice. I also wondered about making a website, like a blog, with only markdown and a React front end. That is what Gatsby does.
-
-By the powers combined of Gatsby and Netlify I had a blog launched in no time. Well, a very small amount of time.
+This uses Gatsby, which is a JAM website maker. By the powers combined of Gatsby and Netlify I had a blog launched in no time. Well, a very small amount of time.
 
 ### Patricia.portfolio
-This is a site that lives at https://hellonurse.io. I named the URL after the animaniacs characters. 
-
-It's made with Vanilla JavaScript, HTML, and CSS. It's a no-frills thing. And I launched the site with Netlify. 
-
-I had initially launched with GitHub pages. And then I switched over because I started paying to host my own sites on Netlify.
+This is a site that lives at https://hellonurse.io. I named the URL after the animaniacs characters. It's made with Vanilla JavaScript, HTML, and CSS. It's a no-frills thing. And I launched the site with Netlify. 
 
 ### The Happy Cloud
 This is a site that lives at https://the-happy-cloud.netlify.app/. I didn't buy a domain for it, so it's just the default that Netlify gives me. This project demonstrates how Green Sock the JS library and React can work together.
