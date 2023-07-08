@@ -2,9 +2,8 @@
 
 #### Current projects
 
-- 🧑🏼‍💻 I’m currently working on leetcode problems. I add them to the Tidbits repo. I also add a little bit every day to my website about NumPy. 
-- 🌱 I’m currently learning NumPy. So there is a site where I take my notes and publish them as I learn.
-- 😺 I've adopted Atom. I use it as a text editor, so I'm going to try to make a side project out of modifying it for my personal writing tool.
+- 🧑🏼‍💻 Recently I've worked on leetcode problems. I add them to the Tidbits repo. I also add a little bit every day to my website about NumPy. 
+- 🌱 I've also learned some NumPy. So there is a site where I take my notes and publish them as I learn.
 
 #### My past projects include:
 
