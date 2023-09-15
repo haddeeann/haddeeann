@@ -1,4 +1,4 @@
-### Haddee Ann: Python and JavaScript developer
+### Patricia Green: Python and JavaScript developer
 
 #### Current projects
 
