@@ -7,11 +7,8 @@
 
 #### My past projects include:
 
-##### Yellow Umbrella Makers
-This uses Gatsby, which is a JAM website maker. By the powers combined of Gatsby and Netlify I had a blog launched in no time. Well, a very small amount of time.
-
 ##### Patricia.portfolio
-This is a site that lives at https://hellonurse.io. It's made with Vanilla JavaScript, HTML, and CSS. I launched the site with Netlify. 
+This is a site that lives at [patteegreen.netlify.app](https://patteegreen.netlify.app/). It's made with Vanilla JavaScript, HTML, and CSS. I launched the site with Netlify. 
 
 ##### The Happy Cloud
 This is a site that lives at https://the-happy-cloud.netlify.app/. This project demonstrates how Green Sock the JS library and React can work together.
