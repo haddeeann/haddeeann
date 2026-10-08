@@ -1,35 +1,53 @@
-### Patricia Green: Python and JavaScript developer
+# Patricia Green
 
-#### Current projects
+**Full-stack software engineer building web applications, AI systems, and tools for complex decisions.**
 
-- 🧑🏼‍💻 Recently I've worked on leetcode problems. I add them to the Tidbits repo. I also add a little bit every day to my website about NumPy. 
-- 🌱 I've also learned some NumPy. So there is a site where I take my notes and publish them as I learn.
+I work across frontend, backend, data, testing, and deployment. My recent professional work includes production AI agents, authorization and permissions across distributed services, real-time systems, and automated end-to-end testing.
 
-#### My past projects include:
+I primarily work with **Python, TypeScript, JavaScript, Go, React, Vue, FastAPI, Django, and PostgreSQL**.
 
-##### Patricia.portfolio
-This is a site that lives at [patteegreen.netlify.app](https://patteegreen.netlify.app/). It's made with Vanilla JavaScript, HTML, and CSS. I launched the site with Netlify. 
+## Featured projects
 
-##### The Happy Cloud
-This is a site that lives at https://the-happy-cloud.netlify.app/. This project demonstrates how Green Sock the JS library and React can work together.
+### [Allocation Lab](https://allocation-lab.netlify.app/)
+**React · TypeScript**
 
-#### Adventure Dog
-This is a blog about dog care and training. It lives on Netlify as well. It's at https://adventure-dog.netlify.app/. It's made using React, Gatsby, and CSS modules.
+An interactive decision-modeling application for exploring how a fixed budget can be allocated across competing opportunities.
 
-##### Robot Dreams
-This site fetches data (poems) from a free API and displays one poem at a time. It lives at https://haddeeann.github.io/robot-dreams/.
+It models multiple evaluators, adjustable influence, marginal utility, and diminishing returns, then visualizes how changes in assumptions affect the recommended allocation. I built it to explore quantitative collective decision-making and how complex model outputs can be made understandable to users.
 
-It's made with HTML, JavaScript, CSS. And it is hosted on GitHub Pages. If you go to the site you can search for your favorite poet and it will return the first poem it find by that author.
+### Vela
+**React Native · Expo · TypeScript · SQLite**
 
-<!--
-**haddeeann/haddeeann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A calendar and task-management application designed around fast capture and low-friction planning. I built the product, interface, local data model, natural-language Quick Add flow, automated tests, and release pipeline.
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Llamalyze
+**Vue 3 · Node.js · SQLite**
 
--->
+A full-stack web application built with a Vue frontend, Node.js backend, and SQLite persistence, deployed on Fly.io.
+
+### Inkwell
+**Vue 3 · Django REST Framework**
+
+A blogging and note-taking application with rich-text editing, authenticated uploads, API integration, and reusable project setup.
+
+## What I'm working on
+
+- Building production AI-agent features that interact safely with existing application data and workflows
+- Designing authorization, context, memory, and human-review patterns for agentic software
+- Expanding automated testing with Playwright and AI-assisted development workflows
+- Exploring decision-support software, numerical models, and interfaces that make complex systems easier to understand
+
+## Tech
+
+**Languages:** Python, TypeScript, JavaScript, Go, SQL  
+**Frontend:** React, React Native, Vue 3, Vite  
+**Backend:** Django, Django REST Framework, FastAPI, Node.js, REST APIs, WebSockets  
+**Data:** PostgreSQL, DynamoDB, SQLite  
+**Testing:** Playwright, pytest, Vitest, Jest, Maestro  
+**Infrastructure:** AWS, Docker, Kubernetes, GitHub Actions  
+**AI:** LangGraph, LangChain, LLM APIs, Claude Code, Codex
+
+## Links
+
+- [Portfolio](https://patteegreen.netlify.app/)
+- [Allocation Lab](https://allocation-lab.netlify.app/)
